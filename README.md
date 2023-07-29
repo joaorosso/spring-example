@@ -1,2 +1,2 @@
 # spring-example
-Spring example using JPA, Lombok, Postgresql, Validations, Pageable
+Spring example using Security, JPA, Lombok, Postgresql, Validations, Pageable
